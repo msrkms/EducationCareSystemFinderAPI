@@ -1,0 +1,6 @@
+@EducationCareSystemFinderAPI_HostAddress = http://localhost:5277
+
+GET {{EducationCareSystemFinderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
